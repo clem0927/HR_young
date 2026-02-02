@@ -19,9 +19,9 @@ $ npm start
 
 <br/>
 <br/>
-
-# 1. Project Overview (프로젝트 개요)
 <img src="assets/메인.png" alt="프로젝트 배너" width="100%">
+# 1. Project Overview (프로젝트 개요)
+
 - 프로젝트 제목:LLM을 활용한 IT HR 웹 솔루션
 - 프로젝트 설명:LLM을 활용하여 IT회사의 사내 개발자들을 대상으로하는 지능형 HR 웹 솔루션을 개발
 - **주제 선정 배경 및 차별점**:

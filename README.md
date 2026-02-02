@@ -51,9 +51,11 @@ $ npm start
 - 일정탭
 - AI 챗봇
 
+<img src="assets/담당파트.png" alt="기술스택" width="70%"/>
+
 # 4. Technology Stack (기술 스택)
 ## 4.1 개발환경
-<img src="assets/기술스택.png" alt="기술스택" width="60%">
+<img src="assets/기술스택.png" alt="기술스택" width="70%"/>
 
 ## 4.2 외부 API
 <ul>

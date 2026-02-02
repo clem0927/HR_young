@@ -51,14 +51,23 @@
 
 ## 👥 2. Team Members (팀원 및 팀 소개)
 
-| **김민영 (PL)** | **김순호 (FE)** |
-| :---: | :---: |
-| <img src="https://raw.githubusercontent.com/clem0927/Parking-project/main/assets/토끼.png" width="140" height="140" style="border-radius: 50%"/> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" width="140" height="140" style="border-radius: 50%"/> |
-| [@clem0927](https://github.com/clem0927) | [@20201147-cyber](https://github.com/20201147-cyber) |
-| <ul><li>프로젝트 기획 및 관리</li><li>아키텍처 설계</li><li>백엔드 서버 구축</li></ul> | <ul><li>프론트엔드 UI 구현</li><li>페이지별 기능 개발</li></ul> |
+| **김재현 (PM)** | **김민영 (PL)** | **김경은 (FE)** |
+| :---: | :---: | :---: |
+| <img src="https://github.com/RunSBS.png" width="140" height="140" style="border-radius: 50%"/> | <img src="https://github.com/clem0927.png" width="140" height="140" style="border-radius: 50%"/> | <img src="https://github.com/KKEUN22.png" width="140" height="140" style="border-radius: 50%"/> |
+| [@RunSBS](https://github.com/RunSBS) | [@clem0927](https://github.com/clem0927) | [@KKEUN22](https://github.com/KKEUN22) |
+| 010-2731-7128 | 010-9917-4907 | 010-6291-2104 |
+| <ul><li>프로젝트 총괄 매니징</li><li>일정 및 리스크 관리</li></ul> | <ul><li>기획 및 아키텍처 설계</li><li>백엔드 서버 구축</li></ul> | <ul><li>UI/UX 프론트엔드 설계</li><li>컴포넌트 기능 구현</li></ul> |
 
 <br/>
 
+| **전현규 (DB)** | **강규호 (AI)** |
+| :---: | :---: |
+| <img src="https://github.com/JeonHyunGyu.png" width="140" height="140" style="border-radius: 50%"/> | <img src="https://github.com/Kangkyuho.png" width="140" height="140" style="border-radius: 50%"/> |
+| [@JeonHyunGyu](https://github.com/JeonHyunGyu) | [@Kangkyuho](https://github.com/Kangkyuho) |
+| 010-9341-5578 | 010-9588-5776 |
+| <ul><li>데이터베이스 모델링</li><li>쿼리 최적화 및 관리</li></ul> | <ul><li>LLM 모델 연동</li><li>RAG 시스템 구축</li></ul> |
+
+<br/>
 ## 🛠 3. My Contributions (담당 파트)
 <img src="assets/담당파트.png" alt="담당파트" width="80%"/>
 

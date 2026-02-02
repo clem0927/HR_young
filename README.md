@@ -24,12 +24,8 @@
       <td align="center"><b>📊 테이블 명세서 (ERD)</b></td>
     </tr>
     <tr>
-      <td><img src="assets/ppt_preview.png" alt="PPT Preview" width="400"/></td>
-      <td><img src="assets/erd_preview.png" alt="ERD Preview" width="400"/></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="assets/project_plan.pdf">📁 기획서 상세보기 (PDF)</a></td>
-      <td align="center"><a href="assets/table_spec.pdf">📁 DB 명세서 상세보기 (PDF)</a></td>
+      <td align="center"><a href="assets/">📁 발표 PPT(PPTX)</a></td>
+      <td align="center"><a href="assets/">📁 테이블 명세서(XLXS)</a></td>
     </tr>
   </table>
 

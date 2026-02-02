@@ -46,14 +46,14 @@ $ npm start
 <br/>
 
 # 3. My Contributions (담당 파트)
--스프링 시큐리티를 활용한 회원가입 및 로그인
--시큐리티를 통한 권한별 접근통제
--일정탭
--AI 챗봇
+- 스프링 시큐리티를 활용한 회원가입 및 로그인
+- 시큐리티를 통한 권한별 접근통제
+- 일정탭
+- AI 챗봇
 
 # 4. Technology Stack (기술 스택)
 ## 4.1 개발환경
-<img src="https://raw.githubusercontent.com/clem0927/Parking-project/main/assets/개발환경.png" alt="프로젝트 배너" width="60%">
+<img src="assets/기술스택.png" alt="기술스택" width="60%">
 
 ## 4.2 외부 API
 <ul>

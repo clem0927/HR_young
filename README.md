@@ -1,5 +1,5 @@
 <a href="https://club-project-one.vercel.app/" target="_blank">
-<img src="https://raw.githubusercontent.com/clem0927/Parking-project/main/assets/poster.png" alt="프로젝트 배너" width="100%">
+<img src="" alt="프로젝트 배너" width="100%">
 
 </a>
 
@@ -21,9 +21,11 @@ $ npm start
 <br/>
 
 # 1. Project Overview (프로젝트 개요)
-- 프로젝트 이름:Ezpark
-- 프로젝트 소제목:서울시 공영 주차장 추천 및 실시간 여석정보 제공 웹
-- 프로젝트 설명: 서울시 공영 주차장들의 실시간 여석 정보를 제공하고,내비게이션 안내 중 실시간으로 주변 주차장을 추천 받거나 여석을 기반으로 주차장을 예약하는 "주차 보조 서비스"
+- 프로젝트 제목:LLM을 활용한 IT HR 웹 솔루션
+- 프로젝트 설명:LLM을 활용하여 IT회사의 사내 개발자들을 대상으로하는 지능형 HR 웹 솔루션을 개발
+- **주제 선정 배경 및 차별점**:
+   - 기존의 HR은 개발자들을 위한 맞춤  기능들이 부족
+   - 개발자들의 업무 특성에 맞는 기능들을 LLM을 활용하여 구현
 
 <br/>
 <br/>
@@ -40,8 +42,23 @@ $ npm start
 <br/>
 <br/>
 
+# 3. My Contributions (담당 파트)
+-스프링 시큐리티를 활용한 회원가입 및 로그인
+-시큐리티를 통한 권한별 접근통제
+-일정탭
+-AI 챗봇
 
-# 3. Key Features (주요 기능)
+# 4. Technology Stack (기술 스택)
+## 4.1 개발환경
+<img src="https://raw.githubusercontent.com/clem0927/Parking-project/main/assets/개발환경.png" alt="프로젝트 배너" width="60%">
+
+## 4.2 외부 API
+<ul>
+  <li>1.서울시 시영주차장 실시간 주차대수 API(서울 열린 데이터광장)</li>
+  <li>2.카카오맵 API</li>
+  <li>3.SK Open API</
+
+# 5. Key Features (주요 기능)
 - **회원가입 및 로그인**:
   - 스프링 시큐리티를 활용한 회원가입 및 로그인
 
@@ -67,12 +84,4 @@ $ npm start
 <br/>
 
 
-# 4. Technology Stack (기술 스택)
-## 4.1 개발환경
-<img src="https://raw.githubusercontent.com/clem0927/Parking-project/main/assets/개발환경.png" alt="프로젝트 배너" width="60%">
 
-## 4.1 외부 API
-<ul>
-  <li>1.서울시 시영주차장 실시간 주차대수 API(서울 열린 데이터광장)</li>
-  <li>2.카카오맵 API</li>
-  <li>3.SK Open API</

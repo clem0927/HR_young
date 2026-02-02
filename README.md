@@ -1,5 +1,5 @@
 # 🚀 IT HR Web Solution with LLM
-> **LLM을 활용한 지능형 IT HR 웹 솔루션**
+> **LLM을 활용한 지능형 IT HR 웹 솔루션:**
 > 개발자 직무 특성에 최적화된 맞춤형 인사 관리 및 프로젝트 협업 툴입니다.
 
 <div align="center">
@@ -25,9 +25,9 @@
       <td align="center"><b> ERD </b></td>
     </tr>
     <tr>
-      <td align="center"><a href="assets/">📁 발표 PPT(PPTX)</a></td>
-      <td align="center"><a href="assets/">📁 테이블 명세서(XLXS)</a></td>
-      <td align="center"><a href="assets/">📁 ERD(PNG)</a></td>
+      <td align="center"><a href="assets/솔데스크HR_김민영 PPT">📁 발표 PPT(PPTX)</a></td>
+      <td align="center"><a href="assets/HR_테이블명세서_김민영">📁 테이블 명세서(XLXS)</a></td>
+      <td align="center"><a href="assets/ERD.png">📁 ERD(PNG)</a></td>
     </tr>
   </table>
 

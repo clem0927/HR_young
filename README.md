@@ -20,7 +20,7 @@
   
   <table>
     <tr>
-      <td align="center"><b>📄 기획서 (PPT)</b></td>
+      <td align="center"><b>📄 발표 PPT</b></td>
       <td align="center"><b>📊 테이블 명세서 (ERD)</b></td>
     </tr>
     <tr>

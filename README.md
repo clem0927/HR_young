@@ -25,8 +25,8 @@
       <td align="center"><b>🗺️ ERD</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/ppt_thumbnail.png" width="250" alt="PPT Preview"/><br/><br/><a href="assets/솔데스크HR_김민영.pptx">📁 다운로드 (PPTX)</a></td>
-      <td align="center"><img src="assets/table_thumbnail.png" width="250" alt="Table Preview"/><br/><br/><a href="assets/HR_테이블명세서_김민영.xlsx">📁 다운로드 (XLSX)</a></td>
+      <td align="center"><br/><br/><a href="assets/솔데스크HR_김민영.pptx">📁 다운로드 (PPTX)</a></td>
+      <td align="center"><br/><br/><a href="assets/HR_테이블명세서_최종.xlsx">📁 다운로드 (XLSX)</a></td>
       <td align="center"><img src="assets/ERD.png" width="250" alt="ERD Preview"/><br/><br/><a href="assets/ERD.png">📁 크게 보기 (PNG)</a></td>
     </tr>
   </table>

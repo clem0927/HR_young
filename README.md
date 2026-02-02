@@ -19,7 +19,9 @@ $ npm start
 
 <br/>
 <br/>
-<img src="assets/메인.png" alt="프로젝트 배너" width="100%">
+
+<img src="assets/메인.png" alt="프로젝트 배너" width="100%"/>
+
 # 1. Project Overview (프로젝트 개요)
 
 - 프로젝트 제목:LLM을 활용한 IT HR 웹 솔루션

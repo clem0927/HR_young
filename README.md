@@ -20,12 +20,14 @@
   
   <table>
     <tr>
-      <td align="center"><b>📄 발표 PPT</b></td>
-      <td align="center"><b>📊 테이블 명세서 (ERD)</b></td>
+      <td align="center"><b> 발표 PPT</b></td>
+      <td align="center"><b> 테이블 명세서</b></td>
+      <td align="center"><b> ERD </b></td>
     </tr>
     <tr>
       <td align="center"><a href="assets/">📁 발표 PPT(PPTX)</a></td>
       <td align="center"><a href="assets/">📁 테이블 명세서(XLXS)</a></td>
+      <td align="center"><a href="assets/">📁 ERD(PNG)</a></td>
     </tr>
   </table>
 

@@ -46,9 +46,8 @@
 <br/>
 
 ## 🛠 3. My Contributions (담당 파트)
-<div align="center">
-  <img src="assets/담당파트.png" alt="담당파트" width="80%"/>
-</div>
+<img src="assets/담당파트.png" alt="담당파트" width="80%"/>
+
 
 - 스프링 시큐리티를 활용한 회원가입 및 로그인
 - 시큐리티를 통한 권한별 접근통제
@@ -59,9 +58,8 @@
 
 ## 🏗 4. Technology Stack (기술 스택)
 ### 4.1 개발환경
-<div align="center">
-  <img src="assets/기술스택.png" alt="기술스택" width="80%"/>
-</div>
+<img src="assets/기술스택.png" alt="기술스택" width="80%"/>
+
 
 - 스프링 시큐리티를 활용한 회원가입 및 로그인
 - 시큐리티를 통한 권한별 접근통제

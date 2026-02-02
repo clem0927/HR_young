@@ -46,12 +46,14 @@ $ npm start
 <br/>
 
 # 3. My Contributions (담당 파트)
+<img src="assets/담당파트.png" alt="기술스택" width="70%"/>
+
 - 스프링 시큐리티를 활용한 회원가입 및 로그인
 - 시큐리티를 통한 권한별 접근통제
 - 일정탭
 - AI 챗봇
 
-<img src="assets/담당파트.png" alt="기술스택" width="70%"/>
+
 
 # 4. Technology Stack (기술 스택)
 ## 4.1 개발환경

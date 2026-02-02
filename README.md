@@ -13,10 +13,26 @@
 
 <br/>
 
-## 🎬 Project Preview
+## 🎬 Project Preview & Documents
 <div align="center">
   <img src="assets/메인.png" alt="프로젝트 배너" width="100%"/>
-  <br/>
+  <br/><br/>
+  
+  <table>
+    <tr>
+      <td align="center"><b>📄 기획서 (PPT)</b></td>
+      <td align="center"><b>📊 테이블 명세서 (ERD)</b></td>
+    </tr>
+    <tr>
+      <td><img src="assets/ppt_preview.png" alt="PPT Preview" width="400"/></td>
+      <td><img src="assets/erd_preview.png" alt="ERD Preview" width="400"/></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="assets/project_plan.pdf">📁 기획서 상세보기 (PDF)</a></td>
+      <td align="center"><a href="assets/table_spec.pdf">📁 DB 명세서 상세보기 (PDF)</a></td>
+    </tr>
+  </table>
+
   <p align="center">
     <strong>[Demo Video]</strong><br/>
     https://github.com/user-attachments/assets/fb03c98b-126e-4c9b-aa65-de33d78c05f7

@@ -1,5 +1,5 @@
 <a href="https://club-project-one.vercel.app/" target="_blank">
-<img src="" alt="프로젝트 배너" width="100%">
+<img src="assets/메인.png" alt="프로젝트 배너" width="100%">
 
 </a>
 

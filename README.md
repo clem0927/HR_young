@@ -102,10 +102,10 @@
 
 <div align="center">
   <img src="assets/캘린더.png" width="80%"/>
-  <p><i>개인 및 팀의 모든 일정을 한눈에 파악할 수 있는 시각화 대시보드</i></p>
+  <p><i>사내 일정을 시각화 해놓은 캘린더</i></p>
   <br/>
   <img src="assets/회의실.png" width="50%"/>
-  <img src="assets/회의실 예약.png" width="30%"/> 
+  <img src="assets/회의실 예약.png" width="20%"/> 
   <p><i>회의실 관리 및 예약 시스템</i></p>
 </div>
 

@@ -98,8 +98,10 @@
 - **캘린더**: 개인별 일정, 프로젝트 현황, 휴가 현황을 조회 후 시각화 해줌
 <img src="assets/캘린더.png" alt="회원가입" width="50%"/>
 - **회의실**: 회의실 생성,수정,삭제 조회 및 예약기능
+<div display="flex">
  <img src="assets/회의실.png" alt="회원가입" width="30%"/>
  <img src="assets/회의실 예약.png" alt="회원가입" width="30%"/> 
+</div>
    
    
 

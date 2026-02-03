@@ -99,8 +99,8 @@
 <img src="assets/캘린더.png" alt="회원가입" width="50%"/>
 - **회의실**: 회의실 생성,수정,삭제 조회 및 예약기능
 <div display="flex">
- <img src="assets/회의실.png" alt="회원가입" width="30%"/>
- <img src="assets/회의실 예약.png" alt="회원가입" width="30%"/> 
+ <img src="assets/회의실.png" alt="회의실" width="50%"/>
+ <img src="assets/회의실 예약.png" alt="회의실 예약" width="30%"/> 
 </div>
    
    

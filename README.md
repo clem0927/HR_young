@@ -25,16 +25,16 @@
       <td align="center"><b>🗺️ ERD</b></td>
     </tr>
     <tr>
-      <td align="center"><br/><br/><a href="assets/솔데스크HR_김민영 PPT.pptx">📁 다운로드 (PPTX)</a></td>
-      <td align="center"><br/><br/><a href="assets/HR_테이블명세서_최종.xlsx">📁 다운로드 (XLSX)</a></td>
-      <td align="center"><img src="assets/ERD.png" width="250" alt="ERD Preview"/><br/><br/><a href="assets/ERD.png">📁 크게 보기 (PNG)</a></td>
+      <td align="center"><br/><a href="assets/솔데스크HR_김민영 PPT.pptx">📁 다운로드 (PPTX)</a></td>
+      <td align="center"><br/><a href="assets/HR_테이블명세서_최종.xlsx">📁 다운로드 (XLSX)</a></td>
+      <td align="center"><img src="assets/ERD.png" width="250" alt="ERD Preview"/><br/><a href="assets/ERD.png">📁 크게 보기 (PNG)</a></td>
     </tr>
   </table>
 
   <p align="center">
     <strong>[Demo Video]</strong><br/>
     <a href="https://github.com/clem0927/HR_young/releases/download/v1.0/HR.mp4">
-    🎬 시연영상 다운로드
+      🎬 시연영상 다운로드
     </a>
   </p>
 </div>
@@ -58,13 +58,15 @@
 | <img src="https://github.com/RunSBS.png" width="120" height="120" style="border-radius: 50%"/> | <img src="https://github.com/clem0927.png" width="120" height="120" style="border-radius: 50%"/> | <img src="https://github.com/KKEUN22.png" width="120" height="120" style="border-radius: 50%"/> | <img src="https://github.com/JeonHyunGyu.png" width="120" height="120" style="border-radius: 50%"/> | <img src="https://github.com/Kangkyuho.png" width="120" height="120" style="border-radius: 50%"/> |
 | [@RunSBS](https://github.com/RunSBS) | [@clem0927](https://github.com/clem0927) | [@KKEUN22](https://github.com/KKEUN22) | [@JeonHyunGyu](https://github.com/JeonHyunGyu) | [@Kangkyuho](https://github.com/Kangkyuho) |
 | 010-2731-7128 | 010-9917-4907 | 010-6291-2104 | 010-9341-5578 | 010-9588-5776 |
-| <ul style="text-align: left;">|
+| <ul style="text-align: left;"><li>프로젝트 총괄 매니징</li><li>일정 및 리스크 관리</li></ul> | <ul style="text-align: left;"><li>기획 및 아키텍처 설계</li><li>백엔드 서버 구축</li></ul> | <ul style="text-align: left;"><li>UI/UX 프론트엔드 설계</li><li>컴포넌트 기능 구현</li></ul> | <ul style="text-align: left;"><li>DB 모델링</li><li>쿼리 최적화 및 관리</li></ul> | <ul style="text-align: left;"><li>LLM 모델 연동</li><li>RAG 시스템 구축</li></ul> |
 
 <br/>
 
 ## 🛠 3. My Contributions (담당 파트)
-<img src="assets/담당파트.png" alt="담당파트" width="80%"/>
-
+<div align="center">
+  <img src="assets/담당파트.png" alt="담당파트" width="80%"/>
+  <p><i>프로젝트 기획, 시큐리티 보안 설계 및 AI 서비스 핵심 기능 개발 담당</i></p>
+</div>
 
 - 스프링 시큐리티를 활용한 회원가입 및 로그인
 - 시큐리티를 통한 권한별 접근통제
@@ -75,78 +77,92 @@
 
 ## 🏗 4. Technology Stack (기술 스택)
 ### 4.1 개발환경
-<img src="assets/기술스택.png" alt="기술스택" width="80%"/>
+<div align="center">
+  <img src="assets/기술스택.png" alt="기술스택" width="80%"/>
+  <p><i>Spring Boot와 React를 중심으로 한 풀스택 개발 환경 및 AI 기술 스택</i></p>
+</div>
+
 <br/>
 
 ## ✨ 5. Key Features (주요 기능)
 
 ### 🔐 Security & Auth
 - **회원가입 및 로그인**: 스프링 시큐리티를 활용한 회원가입 및 로그인
-- **이메일을 통한 사원초대**: 관리자는 사원프로필 생성후 이메일로 초대,사원은 이메일을 통해서만 가입가능
-- **시큐리티를 통한 접근 통제**: 직책별 시큐리티의 권한 통해 페이지 접근 통제 및 컨트롤러의 메서드 접근 통제
-<div display="flex">
-  <img src="assets/회원가입.png" alt="회원가입" width="20%"/>
-  <img src="assets/이메일.png" alt="이메일" width="20%"/>
+- **이메일을 통한 사원초대**: 관리자는 사원프로필 생성 후 이메일로 초대, 사원은 이메일을 통해서만 가입 가능
+- **시큐리티를 통한 접근 통제**: 직책별 권한을 통한 페이지 및 컨트롤러 메서드 접근 제한
+
+<div align="center">
+  <img src="assets/회원가입.png" width="45%"/>
+  <img src="assets/이메일.png" width="45%"/>
+  <p><i>보안을 강화한 회원가입 프로세스 및 이메일 초대 기반의 폐쇄형 가입 시스템</i></p>
 </div>
+
+---
 
 ### 📅 Management
-- **캘린더**: 개인별 일정, 프로젝트 현황, 휴가 현황을 조회 후 시각화 해줌
-<img src="assets/캘린더.png" alt="회원가입" width="50%"/>
-- **회의실**: 회의실 생성,수정,삭제 조회 및 예약기능
-<div display="flex">
- <img src="assets/회의실.png" alt="회의실" width="60%"/>
- <img src="assets/회의실 예약.png" alt="회의실 예약" width="30%"/> 
-</div>
-<br/>
-   
-   
+- **캘린더**: 개인별 일정, 프로젝트 현황, 휴가 현황을 조회 후 시각화
+- **회의실**: 회의실 생성, 수정, 삭제 조회 및 예약 기능
 
-   
+<div align="center">
+  <img src="assets/캘린더.png" width="80%"/>
+  <p><i>개인 및 팀의 모든 일정을 한눈에 파악할 수 있는 시각화 대시보드</i></p>
+  <br/>
+  <img src="assets/회의실.png" width="60%"/>
+  <img src="assets/회의실 예약.png" width="30%"/> 
+  <p><i>회의실 자원 관리 및 실시간 예약 시스템</i></p>
+</div>
+
+---
+
 ### 📁 Project Progress
 - **프로젝트 생성**:
-  - 소프트웨어공학적인 개발기법에 의거해 개발자 맞춤의 프로젝트를 생성
-  - 프로젝트를 생성, 수정, 삭제, 조회 가능
-  - 모든 조회에는 페이징 처리와 검색 기능 구현
-  - 프로젝트 참여자 배정
-- **프로젝트 관리**: 프로젝트 참여자들이 프로젝트 단계별 목표 설정 및 산출물 업로드
-- **산출물 기능**: 산출물은 다운로드 및 이미지일 경우 미리보기 가능
-<div display="flex">
-  <img src="assets/프로젝트.png" alt="프로젝트" width="30%"/>
-  <img src="assets/프로젝트관리.png" alt="프로젝트관리" width="30%"/>
-  <img src="assets/파일업로드.png" alt="파일업로드" width="30%"/>
+  - 소프트웨어공학적인 개발기법에 의거해 개발자 맞춤 프로젝트 생성
+  - 프로젝트 생성, 수정, 삭제, 조회 및 참여자 배정 기능
+  - 모든 조회 리스트 페이징 처리와 검색 기능 구현
+- **프로젝트 관리**: 프로젝트 단계별 목표 설정 및 산출물 업로드
+- **산출물 기능**: 산출물 다운로드 및 이미지 미리보기 지원
+
+<div align="center">
+  <img src="assets/프로젝트.png" width="32%"/>
+  <img src="assets/프로젝트관리.png" width="32%"/>
+  <img src="assets/파일업로드.png" width="32%"/>
+  <p><i>프로젝트 생명주기 관리 및 협업을 위한 산출물 공유 시스템</i></p>
 </div>
-<br/>
+
+---
 
 ### 🤖 AI Intelligent Service
 - **AI 단계 도우미**: 프로젝트 단계 추가 시 프로젝트 내용이나 목표를 AI가 직접 생성해줌 (Ollama Gemma3:4b 로컬 구동)
 
-<div display="flex">
-  <img src="assets/AI단계도우미.png" alt="프로젝트" width="40%"/>
+<div align="center">
+  <img src="assets/AI단계도우미.png" width="60%"/>
+  <p><i>LLM을 활용한 프로젝트 마일스톤 및 상세 목표 자동화 생성 도구</i></p>
 </div>
-<br/>
 
 - **AI 챗봇**:
   - CSV 파일 기반 RAG 방식으로 작동
   - 많이 한 질문을 3개까지 보여주는 누적질문 기능
   - 비속어를 필터링하는 비속어 필터 기능
 
-<div display="flex">
-  <img src="assets/챗봇.png" alt="프로젝트" width="50%"/>
+<div align="center">
+  <img src="assets/챗봇.png" width="60%"/>
+  <p><i>사내 규정 및 데이터를 학습한 RAG 기반 지능형 안내 챗봇</i></p>
 </div>
 
 <br/>
 
 ## 🚀 0. Getting Started (시작하기)
-```bash
 
-# 리액트
+### 💻 Frontend (React)
+```bash
 $ cd vite
+$ npm install
 $ npm run dev
 
-# 스프링부트 서버
-# .\gradlew bootRun
+### 🍃 Backend (Spring Boot)
+# gradlew 실행 권한 부여 (Linux/Mac)
+# chmod +x gradlew
+$ ./gradlew bootRun
 
-# flask 서버
-$ cd C:/Soldesk/HR_Flask
-$ python run.py
-
+### 🐍 AI Server (Flask)
+$cd C:/Soldesk/HR_Flask$ python run.py

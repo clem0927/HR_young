@@ -139,13 +139,15 @@
 
 ## 🚀 0. Getting Started (시작하기)
 ```bash
+
 # 리액트
+$ cd vite
 $ npm run dev
 
 # 스프링부트 서버
-# gradlew bootRun
+# .\gradlew bootRun
 
 # flask 서버
-$cd C:/Soldesk/HR_Flask
+$ cd C:/Soldesk/HR_Flask
 $ python run.py
 

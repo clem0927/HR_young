@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/LLM-Gemma3-blue?style=for-the-badge" alt="Gemma3"/>
 </div>
 
@@ -29,7 +30,7 @@
   </table>
 
   <p align="center">
-    <strong>[Demo Video]</strong><br/>
+    <strong>[Video]</strong><br/>
     <a href="https://github.com/clem0927/HR_young/releases/download/v1.0/HR.mp4">
       🎬 시연영상 다운로드
     </a>

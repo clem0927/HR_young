@@ -104,7 +104,7 @@
   <img src="assets/캘린더.png" width="80%"/>
   <p><i>개인 및 팀의 모든 일정을 한눈에 파악할 수 있는 시각화 대시보드</i></p>
   <br/>
-  <img src="assets/회의실.png" width="60%"/>
+  <img src="assets/회의실.png" width="50%"/>
   <img src="assets/회의실 예약.png" width="40%"/> 
   <p><i>회의실 관리 및 예약 시스템</i></p>
 </div>
@@ -132,7 +132,7 @@
 - **AI 단계 도우미**: 프로젝트 단계 추가 시 프로젝트 내용이나 목표를 AI가 직접 생성해줌 (Ollama Gemma3:4b 로컬 구동)
 
 <div align="center">
-  <img src="assets/AI단계도우미.png" width="60%"/>
+  <img src="assets/AI단계도우미.png" width="40%"/>
   <p><i>LLM을 활용한 AI단계 도우미</i></p>
 </div>
 

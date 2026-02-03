@@ -33,7 +33,9 @@
 
   <p align="center">
     <strong>[Demo Video]</strong><br/>
-    <a href="./assets/HR시연영상 편집본.mp4">영상 보기</a>
+     <a href="https://github.com/clem0927/HR_young/releases/download/v1.0/HR시연영상%20편집본.mp4">
+    영상 보기
+    </a>
   </p>
 </div>
 

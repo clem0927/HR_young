@@ -34,7 +34,7 @@
   <p align="center">
     <strong>[Demo Video]</strong><br/>
     <a href="https://github.com/clem0927/HR_young/releases/download/v1.0/HR.mp4">
-    🎬 Video
+    🎬 시연영상 다운로드
     </a>
   </p>
 </div>

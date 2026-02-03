@@ -153,8 +153,10 @@
 
 ## 🚀 0. Getting Started (시작하기)
 
-### 💻 Frontend (React)
+### 시작
 ```bash
+
+### 💻 Frontend(React)
 $ cd vite
 $ npm install
 $ npm run dev

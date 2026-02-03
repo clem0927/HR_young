@@ -33,7 +33,7 @@
 
   <p align="center">
     <strong>[Demo Video]</strong><br/>
-    https://github.com/user-attachments/assets/fb03c98b-126e-4c9b-aa65-de33d78c05f7
+    <a href="./assets/HR시연영상 편집본.mp4">영상 보기</a>
   </p>
 </div>
 

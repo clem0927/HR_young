@@ -170,7 +170,8 @@ private Long userId;
 @Column(name = "project_status")
 private String projectStatus;
 
-## 🚀 0. Getting Started (시작하기)
+
+🚀 0. Getting Started (시작하기)
 
 ### 시작
 ```bash

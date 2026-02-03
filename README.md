@@ -55,7 +55,7 @@
 | <img src="https://github.com/RunSBS.png" width="120" height="120" style="border-radius: 50%"/> | <img src="https://github.com/clem0927.png" width="120" height="120" style="border-radius: 50%"/> | <img src="https://github.com/KKEUN22.png" width="120" height="120" style="border-radius: 50%"/> | <img src="https://github.com/JeonHyunGyu.png" width="120" height="120" style="border-radius: 50%"/> | <img src="https://github.com/Kangkyuho.png" width="120" height="120" style="border-radius: 50%"/> |
 | [@RunSBS](https://github.com/RunSBS) | [@clem0927](https://github.com/clem0927) | [@KKEUN22](https://github.com/KKEUN22) | [@JeonHyunGyu](https://github.com/JeonHyunGyu) | [@Kangkyuho](https://github.com/Kangkyuho) |
 | 010-2731-7128 | 010-9917-4907 | 010-6291-2104 | 010-9341-5578 | 010-9588-5776 |
-| <ul style="text-align: left;"><li>프로젝트 총괄 매니징</li><li>일정 및 리스크 관리</li></ul> | <ul style="text-align: left;"><li>기획 및 아키텍처 설계</li><li>백엔드 서버 구축</li></ul> | <ul style="text-align: left;"><li>UI/UX 프론트엔드 설계</li><li>컴포넌트 기능 구현</li></ul> | <ul style="text-align: left;"><li>DB 모델링</li><li>쿼리 최적화 및 관리</li></ul> | <ul style="text-align: left;"><li>LLM 모델 연동</li><li>RAG 시스템 구축</li></ul> |
+| <ul style="text-align: left;"><li>프로젝트 총괄 매니징</li><li>부서 및 사원</li></ul> | <ul style="text-align: left;"><li>시큐리티</li><li>일정</li><li>챗봇</li></ul> | <ul style="text-align: left;"><li>UI/UX 프론트엔드 설계</li><li>근태</li></ul> | <ul style="text-align: left;"><li>DB 모델링</li><li>평가 및 포상</li></ul> | <ul style="text-align: left;"><li>전자결재</li></ul> |
 
 <br/>
 
@@ -154,8 +154,8 @@
 
 | 구분 | 규칙 | 예시 |
 | :--- | :--- | :--- |
-| **Database Table** | `snake_case` (소문자/언더바) | `user_profile`, `project_history` |
-| **Database Column** | `snake_case` (소문자/언더바) | `user_id`, `created_at` |
+| **Database Table** | `snake_case` (대문자/언더바) | `USER_PROFILE`, `PROJECT_HISTORY` |
+| **Database Column** | `snake_case` (대문자/언더바) | `USER_ID`, `CREATED_AT` |
 | **Java Entity / Variable** | `camelCase` (소문자 시작 대문자 구분) | `userId`, `createdAt` |
 | **Java Class** | `PascalCase` (대문자 시작) | `UserProfile`, `ProjectService` |
 

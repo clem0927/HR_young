@@ -105,6 +105,11 @@
   - 프로젝트 참여자 배정
 - **프로젝트 관리**: 프로젝트 참여자들이 프로젝트 단계별 목표 설정 및 산출물 업로드
 - **산출물 기능**: 산출물은 다운로드 및 이미지일 경우 미리보기 가능
+<div display="flex">
+  <img src="assets/프로젝트.png" alt="프로젝트" width="30%"/>
+  <img src="assets/프로젝트관리.png" alt="프로젝트관리" width="30%"/>
+  <img src="assets/파일업로드.png" alt="파일업로드" width="30%"/>
+</div>
 
 ### 🤖 AI Intelligent Service
 - **AI 단계 도우미**: 프로젝트 단계 추가 시 프로젝트 내용이나 목표를 AI가 직접 생성해줌 (Ollama Gemma3:4b 로컬 구동)

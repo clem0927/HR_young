@@ -154,8 +154,8 @@
 
 | 구분 | 규칙 | 예시 |
 | :--- | :--- | :--- |
-| **Database Table** | `snake_case` (대문자/언더바) | `user_profile`, `project_history` |
-| **Database Column** | `snake_case` (대문자/언더바) | `user_id`, `created_at` |
+| **Database Table** | `snake_case` (소문자/언더바) | `user_profile`, `project_history` |
+| **Database Column** | `snake_case` (소문자/언더바) | `user_id`, `created_at` |
 | **Java Entity / Variable** | `camelCase` (소문자 시작 대문자 구분) | `userId`, `createdAt` |
 | **Java Class** | `PascalCase` (대문자 시작) | `UserProfile`, `ProjectService` |
 
@@ -169,9 +169,9 @@ private Long userId;
 
 @Column(name = "project_status")
 private String projectStatus;
+` ``` `
 
-
-🚀 0. Getting Started (시작하기)
+### 🚀 0. Getting Started (시작하기)
 
 ### 시작
 ```bash

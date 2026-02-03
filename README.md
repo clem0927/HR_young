@@ -58,7 +58,7 @@
 | <img src="https://github.com/RunSBS.png" width="120" height="120" style="border-radius: 50%"/> | <img src="https://github.com/clem0927.png" width="120" height="120" style="border-radius: 50%"/> | <img src="https://github.com/KKEUN22.png" width="120" height="120" style="border-radius: 50%"/> | <img src="https://github.com/JeonHyunGyu.png" width="120" height="120" style="border-radius: 50%"/> | <img src="https://github.com/Kangkyuho.png" width="120" height="120" style="border-radius: 50%"/> |
 | [@RunSBS](https://github.com/RunSBS) | [@clem0927](https://github.com/clem0927) | [@KKEUN22](https://github.com/KKEUN22) | [@JeonHyunGyu](https://github.com/JeonHyunGyu) | [@Kangkyuho](https://github.com/Kangkyuho) |
 | 010-2731-7128 | 010-9917-4907 | 010-6291-2104 | 010-9341-5578 | 010-9588-5776 |
-| <ul style="text-align: left;"><li>총괄 매니징</li><li>일정 관리</li></ul> | <ul style="text-align: left;"><li>기획/설계</li><li>백엔드 구축</li></ul> | <ul style="text-align: left;"><li>UI/UX 설계</li><li>기능 구현</li></ul> | <ul style="text-align: left;"><li>DB 모델링</li><li>쿼리 최적화</li></ul> | <ul style="text-align: left;"><li>LLM 연동</li><li>RAG 구축</li></ul> |
+| <ul style="text-align: left;">|
 
 <br/>
 

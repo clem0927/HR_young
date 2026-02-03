@@ -171,8 +171,8 @@ private Long userId;
 private String projectStatus;
 ```
 
-```bash
 ### 🚀 0. Getting Started (시작하기)
+```bash
 
 ### 💻 Frontend(React)
 $ cd vite

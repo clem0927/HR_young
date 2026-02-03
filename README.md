@@ -104,6 +104,7 @@
  <img src="assets/회의실.png" alt="회의실" width="60%"/>
  <img src="assets/회의실 예약.png" alt="회의실 예약" width="30%"/> 
 </div>
+<br/>
    
    
 
@@ -121,13 +122,15 @@
   <img src="assets/프로젝트관리.png" alt="프로젝트관리" width="30%"/>
   <img src="assets/파일업로드.png" alt="파일업로드" width="30%"/>
 </div>
+<br/>
 
 ### 🤖 AI Intelligent Service
 - **AI 단계 도우미**: 프로젝트 단계 추가 시 프로젝트 내용이나 목표를 AI가 직접 생성해줌 (Ollama Gemma3:4b 로컬 구동)
 
 <div display="flex">
-  <img src="assets/AI단계도우미.png" alt="프로젝트" width="50%"/>
+  <img src="assets/AI단계도우미.png" alt="프로젝트" width="40%"/>
 </div>
+<br/>
 
 - **AI 챗봇**:
   - CSV 파일 기반 RAG 방식으로 작동

@@ -76,13 +76,6 @@
 ## 🏗 4. Technology Stack (기술 스택)
 ### 4.1 개발환경
 <img src="assets/기술스택.png" alt="기술스택" width="80%"/>
-
-
-- 스프링 시큐리티를 활용한 회원가입 및 로그인
-- 시큐리티를 통한 권한별 접근통제
-- 일정탭
-- AI 챗봇
-
 <br/>
 
 ## ✨ 5. Key Features (주요 기능)
@@ -146,5 +139,13 @@
 
 ## 🚀 0. Getting Started (시작하기)
 ```bash
-# Install and Start
-$ npm start
+# 리액트
+$ npm run dev
+
+# 스프링부트 서버
+# gradlew bootRun
+
+# flask 서버
+$cd C:/Soldesk/HR_Flask
+$ python run.py
+

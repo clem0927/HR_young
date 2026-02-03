@@ -89,8 +89,8 @@
 - **시큐리티를 통한 접근 통제**: 직책별 권한을 통한 페이지 및 컨트롤러 메서드 접근 제한
 
 <div align="center">
-  <img src="assets/회원가입.png" width="45%"/>
-  <img src="assets/이메일.png" width="45%"/>
+  <img src="assets/회원가입.png" width="35%"/>
+  <img src="assets/이메일.png" width="35%"/>
   <p><i>회원가입 및 이메일을 통한 사원 초대</i></p>
 </div>
 

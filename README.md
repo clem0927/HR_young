@@ -3,9 +3,6 @@
 > 개발자 직무 특성에 최적화된 맞춤형 인사 관리 및 프로젝트 협업 툴입니다.
 
 <div align="center">
-  <a href="https://club-project-one.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Link-brightgreen?style=for-the-badge&logo=vercel" alt="Demo Link"/>
-  </a>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/LLM-Gemma3-blue?style=for-the-badge" alt="Gemma3"/>
@@ -94,7 +91,7 @@
 <div align="center">
   <img src="assets/회원가입.png" width="45%"/>
   <img src="assets/이메일.png" width="45%"/>
-  <p><i>보안을 강화한 회원가입 프로세스 및 이메일 초대 기반의 폐쇄형 가입 시스템</i></p>
+  <p><i>회원가입 및 이메일을 통한 사원 초대</i></p>
 </div>
 
 ---
@@ -108,8 +105,8 @@
   <p><i>개인 및 팀의 모든 일정을 한눈에 파악할 수 있는 시각화 대시보드</i></p>
   <br/>
   <img src="assets/회의실.png" width="60%"/>
-  <img src="assets/회의실 예약.png" width="30%"/> 
-  <p><i>회의실 자원 관리 및 실시간 예약 시스템</i></p>
+  <img src="assets/회의실 예약.png" width="40%"/> 
+  <p><i>회의실 관리 및 예약 시스템</i></p>
 </div>
 
 ---
@@ -126,7 +123,7 @@
   <img src="assets/프로젝트.png" width="32%"/>
   <img src="assets/프로젝트관리.png" width="32%"/>
   <img src="assets/파일업로드.png" width="32%"/>
-  <p><i>프로젝트 생명주기 관리 및 협업을 위한 산출물 공유 시스템</i></p>
+  <p><i> 프로젝트 / 프로젝트관리 / 파일업로드</i></p>
 </div>
 
 ---
@@ -136,7 +133,7 @@
 
 <div align="center">
   <img src="assets/AI단계도우미.png" width="60%"/>
-  <p><i>LLM을 활용한 프로젝트 마일스톤 및 상세 목표 자동화 생성 도구</i></p>
+  <p><i>LLM을 활용한 AI단계 도우미</i></p>
 </div>
 
 - **AI 챗봇**:
@@ -146,7 +143,7 @@
 
 <div align="center">
   <img src="assets/챗봇.png" width="60%"/>
-  <p><i>사내 규정 및 데이터를 학습한 RAG 기반 지능형 안내 챗봇</i></p>
+  <p><i>CSV파일내 사내 규정 및 데이터를 학습한 RAG 기반 지능형 안내 챗봇</i></p>
 </div>
 
 <br/>

@@ -148,6 +148,28 @@
 
 <br/>
 
+## 🗄️ Database Naming Convention (명명 규칙)
+
+프로젝트의 유지보수와 가독성을 위해 데이터베이스와 소스코드 간의 명명 규칙을 다음과 같이 정의하여 준수하였습니다.
+
+| 구분 | 규칙 | 예시 |
+| :--- | :--- | :--- |
+| **Database Table** | `snake_case` (대문자/언더바) | `user_profile`, `project_history` |
+| **Database Column** | `snake_case` (대문자/언더바) | `user_id`, `created_at` |
+| **Java Entity / Variable** | `camelCase` (소문자 시작 대문자 구분) | `userId`, `createdAt` |
+| **Java Class** | `PascalCase` (대문자 시작) | `UserProfile`, `ProjectService` |
+
+### 🔗 Mapping Example
+> JPA의 `@Column` 어노테이션 등을 활용하여 DB와 Entity 간의 변수명을 매핑하였습니다.
+
+```java
+// Java Entity (CamelCase)
+@Column(name = "user_id") // DB Column (SnakeCase)
+private Long userId;
+
+@Column(name = "project_status")
+private String projectStatus;
+
 ## 🚀 0. Getting Started (시작하기)
 
 ### 시작

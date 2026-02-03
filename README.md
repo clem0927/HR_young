@@ -148,7 +148,7 @@
 
 <br/>
 
-## 🗄️ Database Naming Convention (명명 규칙)
+## 🗄️6.Database Naming Convention (명명 규칙)
 
 프로젝트의 유지보수와 가독성을 위해 데이터베이스와 소스코드 간의 명명 규칙을 다음과 같이 정의하여 준수하였습니다.
 

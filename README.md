@@ -76,7 +76,7 @@
 ### 4.1 개발환경
 <div align="center">
   <img src="assets/기술스택.png" alt="기술스택" width="80%"/>
-  <p><i>Spring Boot와 React를 중심으로 한 풀스택 개발 환경 및 AI 기술 스택</i></p>
+  <p><i>Spring Boot의 MVC패턴 기반 개발 환경 및 AI 기술 스택</i></p>
 </div>
 
 <br/>

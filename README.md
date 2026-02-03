@@ -113,10 +113,19 @@
 
 ### 🤖 AI Intelligent Service
 - **AI 단계 도우미**: 프로젝트 단계 추가 시 프로젝트 내용이나 목표를 AI가 직접 생성해줌 (Ollama Gemma3:4b 로컬 구동)
+
+<div display="flex">
+  <img src="assets/AI단계도우미.png" alt="프로젝트" width="50%"/>
+</div>
+
 - **AI 챗봇**:
   - CSV 파일 기반 RAG 방식으로 작동
   - 많이 한 질문을 3개까지 보여주는 누적질문 기능
   - 비속어를 필터링하는 비속어 필터 기능
+
+<div display="flex">
+  <img src="assets/챗봇.png" alt="프로젝트" width="50%"/>
+</div>
 
 <br/>
 

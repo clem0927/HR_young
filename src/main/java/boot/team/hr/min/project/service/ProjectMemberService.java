@@ -1,8 +1,7 @@
 package boot.team.hr.min.project.service;
 
-import boot.team.hr.hyun.emp.entity.Emp;
-import boot.team.hr.hyun.emp.repo.EmpRepository;
-import boot.team.hr.min.project.dto.ProjectDto;
+import boot.team.hr.emp_ref.emp.entity.Emp;
+import boot.team.hr.emp_ref.emp.repo.EmpRepository;
 import boot.team.hr.min.project.dto.ProjectMemberDto;
 import boot.team.hr.min.project.entitiy.Project;
 import boot.team.hr.min.project.entitiy.ProjectMember;

@@ -1,7 +1,7 @@
 package boot.team.hr.min.meetingroom.service;
 
-import boot.team.hr.hyun.emp.entity.Emp;
-import boot.team.hr.hyun.emp.repo.EmpRepository;
+import boot.team.hr.emp_ref.emp.entity.Emp;
+import boot.team.hr.emp_ref.emp.repo.EmpRepository;
 import boot.team.hr.min.meetingroom.entity.MeetingRoom;
 import boot.team.hr.min.meetingroom.repository.MeetingRoomRepository;
 import boot.team.hr.min.meetingroom.dto.MeetingRoomBookDto;
@@ -12,7 +12,6 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 @Service
 @RequiredArgsConstructor

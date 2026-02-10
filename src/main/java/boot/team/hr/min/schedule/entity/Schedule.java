@@ -1,6 +1,6 @@
 package boot.team.hr.min.schedule.entity;
 
-import boot.team.hr.hyun.emp.entity.Emp;
+import boot.team.hr.emp_ref.emp.entity.Emp;
 import boot.team.hr.min.schedule.dto.ScheduleDto;
 import jakarta.persistence.*;
 import lombok.*;

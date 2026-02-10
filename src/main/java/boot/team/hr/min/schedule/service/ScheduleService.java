@@ -1,7 +1,7 @@
 package boot.team.hr.min.schedule.service;
 
-import boot.team.hr.hyun.emp.entity.Emp;
-import boot.team.hr.hyun.emp.repo.EmpRepository;
+import boot.team.hr.emp_ref.emp.entity.Emp;
+import boot.team.hr.emp_ref.emp.repo.EmpRepository;
 import boot.team.hr.min.schedule.dto.ScheduleDto;
 import boot.team.hr.min.schedule.entity.Schedule;
 import boot.team.hr.min.schedule.repository.ScheduleRepository;

@@ -1,6 +1,6 @@
 package boot.team.hr.min.invite.entity;
 
-import boot.team.hr.hyun.emp.entity.Emp;
+import boot.team.hr.emp_ref.emp.entity.Emp;
 import boot.team.hr.min.invite.dto.InviteDto;
 import jakarta.persistence.*;
 import lombok.*;

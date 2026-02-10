@@ -1,7 +1,7 @@
 package boot.team.hr.min.invite.service;
 
-import boot.team.hr.hyun.emp.entity.Emp;
-import boot.team.hr.hyun.emp.repo.EmpRepository;
+import boot.team.hr.emp_ref.emp.entity.Emp;
+import boot.team.hr.emp_ref.emp.repo.EmpRepository;
 import boot.team.hr.min.invite.dto.InviteDto;
 import boot.team.hr.min.invite.entity.Invite;
 import boot.team.hr.min.invite.repository.InviteRepository;
@@ -9,12 +9,10 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
-import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 
 @Service

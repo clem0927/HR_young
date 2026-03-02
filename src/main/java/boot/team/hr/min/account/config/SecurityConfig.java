@@ -27,7 +27,7 @@ public class SecurityConfig {
         http
                 .cors(cors -> cors.configurationSource(request -> {
                     var corsConfig = new org.springframework.web.cors.CorsConfiguration();
-                    corsConfig.setAllowedOrigins(List.of("http://localhost:5173")); // 프론트 주소
+                    corsConfig.setAllowedOrigins(List.of("https://clem0927.shop","http://localhost:5173")); // 프론트 주소
                     corsConfig.setAllowedMethods(List.of("GET","POST","PUT","DELETE","OPTIONS"));
                     corsConfig.setAllowCredentials(true);
                     corsConfig.setAllowedHeaders(List.of("*"));
